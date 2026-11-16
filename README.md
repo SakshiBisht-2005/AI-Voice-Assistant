@@ -93,9 +93,7 @@ Internet connection for Google Speech Recognition and gTTS
 
 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/AI-Voice-Assistant.git
-
-Replace YOUR_USERNAME with the GitHub username of the repository owner.
+git clone https://github.com/SakshiBisht-2005/AI-Voice-Assistant.git
 
 2. Navigate to the project directory
 
